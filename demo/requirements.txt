@@ -1,0 +1,4 @@
+Prototype requirements
+The enclosure must fit within a 40 mm diameter housing.
+The optical prototype needs a current limit of 300 mA. This conflicts with the meeting notes and needs review.
+The test bench uses a 5 V supply.

@@ -1,0 +1,4 @@
+Workshop meeting, 12 November 2026
+Maya will submit the calibration report by 2026-11-30.
+Alex will review the safety checklist by 2026-12-02.
+The optical prototype needs a current limit of 350 mA.
